@@ -1,0 +1,8 @@
+torch
+tensorflow
+pandas
+scikit-learn
+scipy
+matplotlib
+ipykernel
+notebook
