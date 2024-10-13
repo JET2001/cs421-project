@@ -7,3 +7,4 @@ matplotlib
 ipykernel
 notebook
 seaborn
+imbalanced-learn
